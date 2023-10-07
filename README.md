@@ -1,14 +1,11 @@
-<div>
-    
-  <p style="font-size: 100px">What's up? 🙋🏻‍♂️ My name is Rodolfo Miranda</p>
-</div>
+ <p>What's up? 🙋🏻‍♂️ My name is Rodolfo Miranda</p>
 
 - 🖥️ I'm an undergraduate **Information System** student.
 - 🔌 And I have **Computer Technician** degree.
 
 <br>
 
-#### I'm more used to **Java**, but I have knowledge of **other programming languages**.
+<p>I'm more used to **Java**, but I have knowledge of **other programming languages**.</p>
 
 <div style="display: inline-block;"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
