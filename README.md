@@ -15,5 +15,7 @@
 
 <p>Connect with me: </p>
 <div>
- <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><a href="instragram.com/rodolfo.mrnd"></a>
+ <a href="instragram.com/rodolfo.mrnd">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ </a>
 </div>
