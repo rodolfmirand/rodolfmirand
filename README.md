@@ -1,4 +1,4 @@
-#### What's up? 🙋🏻‍♂️
+### What's up? 🙋🏻‍♂️
 #### My name is Rodolfo Miranda
 
 - 🖥️ I'm an undergraduate **Information System** student.
