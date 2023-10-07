@@ -1,6 +1,8 @@
 <div>
   <samp>What's up? 🙋🏻‍♂️</samp>
-  <samp>My name is Rodolfo Miranda.</samp>
+  <div>
+    My name is Rodolfo Miranda.
+  </div>
 </div>
 
 - 🖥️ I'm an undergraduate **Information System** student.
