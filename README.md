@@ -1,5 +1,9 @@
  
-### What's up? 
+### What's up? 🙋🏻‍♂️
+###My name is Rodolfo Miranda.
+undergraduate student for Information System.
+Computer Technician degree.
+
 <div style="display: inline-block;">
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
