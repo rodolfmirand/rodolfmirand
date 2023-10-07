@@ -1,5 +1,7 @@
 <div>
-  <samp>What's up? 🙋🏻‍♂️</samp>
+  <div>
+    What's up? 🙋🏻‍♂️
+  </div>
   <div>
     My name is Rodolfo Miranda.
   </div>
