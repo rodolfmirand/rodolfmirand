@@ -1,5 +1,7 @@
-## What's up? 🙋🏻‍♂️
-### My name is Rodolfo Miranda.
+<div>
+  <samp>What's up? 🙋🏻‍♂️</samp>
+  <samp>My name is Rodolfo Miranda.</samp>
+</div>
 
 - 🖥️ I'm an undergraduate **Information System** student.
 - 🔌 And I have **Computer Technician** degree.
