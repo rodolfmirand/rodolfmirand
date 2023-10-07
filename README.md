@@ -1,13 +1,12 @@
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  
 ### What's up? 
 <div style="display: inline-block;">
-    <i class="devicon-java-plain-wordmark colored"></i>
-    <i class="devicon-csharp-plain colored"></i>
-    <i class="devicon-html5-plain colored"></i>
-    <i class="devicon-css3-plain colored"></i>
-    <i class="devicon-javascript-plain colored"></i>
-</div>      
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>    
 <div>
   <a href=""></a>
 </div>
