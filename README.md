@@ -1,3 +1,5 @@
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ 
 ### What's up? 
 <div style="display: inline-block;">
     <i class="devicon-java-plain-wordmark colored"></i>
