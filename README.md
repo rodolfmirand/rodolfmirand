@@ -4,7 +4,7 @@
 - 🔌 And I have **Computer Technician** degree.
 
 <p>I'm more used to <b>Java</b>, but I have knowledge of <b>other programming languages</b>.</p>
-<div>
+<div display: inline-block;>
  <div style="display: inline-block;">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
