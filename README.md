@@ -1,4 +1,4 @@
-<div font-size=10 >
+<div font-size=100 >
   What's up? 🙋🏻‍♂️ My name is Rodolfo Miranda
 </div>
 
