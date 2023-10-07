@@ -1,11 +1,11 @@
 ### What's up? 
-<div>
+<div style="display: inline-block;">
     <i class="devicon-java-plain-wordmark colored"></i>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+    <i class="devicon-csharp-plain colored"></i>
     <i class="devicon-html5-plain colored"></i>
     <i class="devicon-css3-plain colored"></i>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>        
+    <i class="devicon-javascript-plain colored"></i>
+</div>      
 <div>
   <a href=""></a>
 </div>
