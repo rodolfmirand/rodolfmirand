@@ -1,6 +1,6 @@
  
 ## What's up? 🙋🏻‍♂️
-### 🖥️  My name is Rodolfo Miranda.
+### <h1> 🖥️  My name is Rodolfo Miranda. </h1> 
 ### ⌨️  I'm a Undergraduate student for Information System.
 ### 🖱️  And I have Computer Technician degree.
 
