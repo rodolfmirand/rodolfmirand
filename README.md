@@ -1,10 +1,5 @@
 <div>
-  <div>
-    What's up? 🙋🏻‍♂️
-  </div>
-  <div>
-    My name is Rodolfo Miranda.
-  </div>
+  <h2>What's up? 🙋🏻‍♂️</h2>
 </div>
 
 - 🖥️ I'm an undergraduate **Information System** student.
