@@ -5,7 +5,7 @@
 
 <br>
 
-<p>I'm more used to **Java**, but I have knowledge of **other programming languages**.</p>
+<p>I'm more used to <b>Java</b>, but I have knowledge of <b>other programming languages</b>.</p>
 
 <div style="display: inline-block;"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
