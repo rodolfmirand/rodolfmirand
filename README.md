@@ -26,7 +26,8 @@
   </a>
  </div>
  <div>
-  <a href="wojjtz.github.io/portifolio-rodolfomiranda"><p>Meu Portifólio (em construção)</p></a>
+  <br>
+  <a href="https://wojjtz.github.io/portifolio-rodolfomiranda/"><p>Meu Portifólio</p></a>
  </div>
 </div>
 
