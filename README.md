@@ -5,6 +5,7 @@
 - 🔌 And I have **Computer Technician** degree.
 
 <br>
+
 #### I'm more used to **Java**, but I have knowledge of **other programming languages**.
 
 <div style="display: inline-block;"><br>
