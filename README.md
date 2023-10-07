@@ -1,6 +1,6 @@
 <div>
     
-  <p font-size= 100>What's up? 🙋🏻‍♂️ My name is Rodolfo Miranda</p>
+  <p style="font-size: 100">What's up? 🙋🏻‍♂️ My name is Rodolfo Miranda</p>
 </div>
 
 - 🖥️ I'm an undergraduate **Information System** student.
