@@ -1,8 +1,8 @@
-### What's up? 🙋🏻‍♂️
-### My name is Rodolfo Miranda
+#### What's up? 🙋🏻‍♂️
+#### My name is Rodolfo Miranda
 
 - 🖥️ I'm an undergraduate **Information System** student.
-- ⌨️ And I have **Computer Technician** degree.
+- 🔌 And I have **Computer Technician** degree.
 
 
 <div style="display: inline-block;"><br>
