@@ -5,14 +5,14 @@
 
 <p>I'm more used to <b>Java</b>, but I have knowledge of <b>other programming languages</b>.</p>
 <div>
- <div display=" inline-block" background-color="#ffd700" height="200" width="300">
+ <div>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
  </div>
- <div style="display: inline-block;">
+ 
   <p>Connect with me: </p>
   
   <a href = "https://instragram.com/rodolfo.mrnd" target = "_blank">
