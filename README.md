@@ -1,5 +1,5 @@
-<div>
-  <h2>What's up? 🙋🏻‍♂️</h2>
+<div style="font-size: 10">
+  What's up? 🙋🏻‍♂️ My name is Rodolfo Miranda
 </div>
 
 - 🖥️ I'm an undergraduate **Information System** student.
