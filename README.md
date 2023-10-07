@@ -1,8 +1,9 @@
-<h1 align ="center">What's up? 🙋🏻‍♂️</h1>
-<h2 align ="center">My name is Rodolfo Miranda</h2>
+### What's up? 🙋🏻‍♂️
+### My name is Rodolfo Miranda
 
-- 🖥️ I'm an undergraduate Information System student
-- ⌨️ And I have Computer Technician degree
+- 🖥️ I'm an undergraduate **Information System** student.
+- ⌨️ And I have **Computer Technician** degree.
+
 
 <div style="display: inline-block;"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
