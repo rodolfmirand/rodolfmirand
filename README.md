@@ -3,8 +3,6 @@
 - 🖥️ I'm an undergraduate **Information System** student.
 - 🔌 And I have **Computer Technician** degree.
 
-<br>
-
 <p>I'm more used to <b>Java</b>, but I have knowledge of <b>other programming languages</b>.</p>
 
 <div style="display: inline-block;"><br>
