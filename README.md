@@ -28,7 +28,7 @@
  </div>
  <div>
   <br>
-  <a href="https://rodolfmirand/portifolio-rodolfomiranda/"><p>Meu Portifólio</p></a>
+  <a href="https://rodolfmirand/portifolio-rodolfomiranda/"><p>My Portfolio</p></a>
  </div>
 </div>
 
