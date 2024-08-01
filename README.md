@@ -28,7 +28,6 @@
  </div>
  <div>
   <br>
-  <a href="https://rodolfmirand.github.io/portifolio-rodolfomiranda/"><p>My Portfolio</p></a>
  </div>
 </div>
 
