@@ -1,43 +1,48 @@
 <h3>What's up? 🙋🏻‍♂️ My name is Rodolfo Miranda</h3>
 
-- 🖥️ I'm an undergraduate **Information System** student.
-- 🔌 And I have **Computer Technician** degree.
+- 🖥️ I'm an undergraduate **Information Systems** student.
+- ⚙️ Focused on back-end development, mainly with **NestJS** and **Spring Boot**.
+- 🧠 Currently learning data structures, REST APIs, design patterns, and clean code.
 - 🎧 I love music and play PC games.
 
-<h3>Programming Languages that I like most:</h3>
+<h3>Programming languages I like the most:</h3>
 <div>
- <div>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
- </div>
- <br>
- <h3>Other languages I know:</h3>
- <div>
+</div>
+
+<br>
+
+<h3>Other languages I know:</h3>
+<div>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
- </div>
- <h3>Frameworks & Tools</h3>
- <div>
+</div>
+
+<br>
+
+<h3>Frameworks & Tools</h3>
+<div>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
- </div>
- <br>
- <p>Connect with me: </p>
- <a href = "https://instragram.com/rodolfo.mrnd" target = "_blank">
-  <img align = "center" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
- </a>
- <a href = "https://www.linkedin.com/in/rodolfmirand/" target = "_blank">
-  <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href = "mailto:rodolfomiranda.work@gmail.com" target = "_blank">
-  <img align = "center" src = "https://img.shields.io/badge/gmail-F14336?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
 </div>
 
+<br>
+
+<p>Connect with me:</p>
+<a href="https://instagram.com/rodolfo.mrnd" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rodolfmirand/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rodolfomiranda.work@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/gmail-F14336?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
