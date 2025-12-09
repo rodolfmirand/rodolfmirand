@@ -2,6 +2,7 @@
 
 - 🖥️ I'm an undergraduate **Information System** student.
 - 🔌 And I have **Computer Technician** degree.
+- 🎧 I love music and play PC games.
 
 <h3>Programming Languages that I like most:</h3>
 <div>
@@ -23,16 +24,16 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
  </div>
  <br>
  <p>Connect with me: </p>
  <a href = "https://instragram.com/rodolfo.mrnd" target = "_blank">
   <img align = "center" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
- <a href = "https://www.linkedin.com/in/rodolfo-oliveira-miranda-8971a6265/" target = "_blank">
+ <a href = "https://www.linkedin.com/in/rodolfmirand/" target = "_blank">
   <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <a href = "mailto:rodolfomiranda.work@gmail.com" target = "_blank">
